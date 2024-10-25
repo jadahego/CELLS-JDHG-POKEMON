@@ -1,0 +1,40 @@
+{
+  "name": "@meraki/app-pokemon",
+  "version": "1.0.0-rc.1",
+  "description": "",
+  "keywords": [],
+  "exports": {
+    ".": "./index.js",
+    "./app-pokemon.js": "./app-pokemon.js"
+  },
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "/src/",
+    "/locales/",
+    "*.js",
+    "!**/*.scss"
+  ],
+  "dependencies": {
+    "@bbva-experience-components/bbva-button-default": "^3.4.7",
+    "@bbva-experience-components/bbva-clip-card-data": "^2.5.9",
+    "@bbva-experience-components/bbva-header-main": "^2.8.8",
+    "@bbva-experience-components/bbva-help-modal": "^2.14.10",
+    "@bbva-web-components/bbva-core-lit-helpers": "^1.0.0",
+    "@bbva-web-components/bbva-foundations-styles": "^2.0.0",
+    "@bbva-web-components/bbva-help-modal": "^5.4.1",
+    "@bbva-web-components/bbva-progress-content": "^4.7.3",
+    "@bbva-web-components/bbva-web-button-default": "^1.7.1",
+    "@bbva-web-components/bbva-web-module-footer": "^1.1.11",
+    "@cells-components/bgadp-accounts-v0": "^4.128.0",
+    "lit-element": "^2.0.0",
+    "lit-html": "^1.0.0"
+  },
+  "devDependencies": {
+    "@bbva-web-components/bbva-dev-demo-helper": "^1.0.0",
+    "@bbva-web-components/bbva-dev-demo-theme": "^2.0.0",
+    "@bbva-web-components/bbva-foundations-sass": "^1.0.0",
+    "@open-wc/testing": "^3.0.0"
+  },
+  "customElements": "custom-elements.json"
+}
