@@ -27,6 +27,7 @@
     "@bbva-web-components/bbva-web-button-default": "^1.7.1",
     "@bbva-web-components/bbva-web-module-footer": "^1.1.11",
     "@cells-components/bgadp-accounts-v0": "^4.128.0",
+    "@meraki/pokemon-dm": "git+https://github.com/jadahego/cells-jdhg-pokemon-dm#main",
     "lit-element": "^2.0.0",
     "lit-html": "^1.0.0"
   },

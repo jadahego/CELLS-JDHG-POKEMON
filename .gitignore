@@ -4,6 +4,7 @@ reports/
 dist/
 build/
 components/
+package-lock.json
 
 *-log.json
 *-error.json
