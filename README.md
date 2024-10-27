@@ -126,14 +126,17 @@ Example:
 The BBVA usage components are designed to facilitate seamless interactions within web applications. Each component serves a specific purpose, enhancing user experience and functionality.
 
 - **bbva-web-button-default**: A customizable button component that provides users with a consistent and visually appealing interface for performing actions throughout the application. It supports various states (default, hover, active) and can be easily styled to match the application's branding.
+
 ![bbva-web-button-default](resource/button.png)
 
 
 - **bbva-progress-content**: This component displays progress indicators for ongoing tasks, allowing users to visualize the completion status of processes such as uploads, downloads, or any time-consuming actions. It improves user engagement by providing feedback during long-running operations.
+
 ![bbva-progress-content](resource/progress.png)
 
 
 - **bbva-help-modal**: A modal dialog that offers contextual help and guidance to users. This component can display FAQs, tips, or detailed instructions to assist users in navigating the application effectively. It enhances usability by ensuring that help is readily available when needed.
+
 ![bbva-help-modal](resource/modal.png)
 
 
