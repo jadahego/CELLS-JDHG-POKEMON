@@ -42,9 +42,7 @@ export class AppPokemon extends LitElement {
         ];
     }
    
-
-    async firstUpdated(props) {
-        super.firstUpdated && super.firstUpdated(props);
+    async firstUpdated() {
         const queryScope = this.shadowRoot || this;
         this._dm = queryScope.querySelector('pokemon-dm');
         await this._dm.fetchPokemons();
