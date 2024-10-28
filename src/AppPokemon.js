@@ -18,7 +18,6 @@ export class AppPokemon extends LitElement {
             totalPokemons: { type: Number },
             perPage: { type: Number },
             loading: { type: Boolean },
-            detailOpened: { type: Boolean, attribute: false, },
         };
     }
 
