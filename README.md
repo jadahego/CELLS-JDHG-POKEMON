@@ -12,7 +12,7 @@ Installation using NPM
 npm install @meraki/app-pokemon 
 ```
 packege.json:  "dependencies": {
-    "@meraki/pokemon-dm": "version"
+    "@meraki/app-pokemon": "version"
   },
  
 ```bash
