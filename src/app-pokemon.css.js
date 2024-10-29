@@ -84,11 +84,11 @@ body {
 
 .evolution-container {
   position: absolute;
-  top: 40%;
+  top: 35%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 1000;
-  width: 1500px;
+  width: 1300px;
   max-width: 100%;
 }
 
@@ -132,7 +132,7 @@ body {
   text-align: center;
   background-color: #f9f9f9;
   transition: transform 0.3s ease;
-  width: 300px;
+  width: 400px;
 }
 
 .evolution-card:hover {
@@ -141,8 +141,8 @@ body {
 }
 
 .evolution-card img {
-  width: 300px;
-  height: 300px;
+  width: 350px;
+  height: 350px;
 }
 
 .button-container {
