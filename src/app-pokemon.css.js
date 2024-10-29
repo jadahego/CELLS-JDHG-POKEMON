@@ -44,7 +44,6 @@ input:focus {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 16px;
   padding: 0 16px;
-  position: relative;
   background-color: white;
 }
 
